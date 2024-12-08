@@ -1,5 +1,7 @@
-# Hi there, I'm ✨ Richmond ✨,
-Whether diving deep into the latest technologies or brainstorming unique solutions, I approach every challenge with passion and innovation.
+# Hi there, I'm ✨ Richmond ✨
+Aspiring web and software developer, whether diving deep into the latest technologies or brainstorming unique solutions, I approach every challenge with passion and innovation.
+
+---
 
 **Here are a few things about me:**
 - 🧠 **Lifelong Learner**: Always curious, constantly evolving.
